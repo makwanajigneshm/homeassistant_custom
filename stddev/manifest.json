@@ -1,0 +1,8 @@
+{
+"domain": "stddev",
+"name": "stddev",
+"documentation": "https://github.com/makwanajigneshm/homeassistant_custom/blob/master/stddev/readme.md",
+"requirements": [],
+"dependencies": [],
+"codeowners": ["Jignesh Makwana"]
+}
